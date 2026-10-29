@@ -68,7 +68,7 @@ task.spawn(function()
     end
 end)
 
--- LEPO HUB Volleyball Legends - v1.2
+-- LEPO HUB Volleyball Legends - v1.3
 -- Primeira Library: https://raw.githubusercontent.com/lekos2/LepoHubUI/refs/heads/main/LepoUInova.txt
 
 local Lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/lekos2/LepoHubUI/refs/heads/main/LepoHubv1.2"))()
@@ -3893,4 +3893,4 @@ CreditsTab:AddParagraph({
 })
 
 CreditsTab:AddDivider()
-CreditsTab:AddLabel("Versão: v1.2 | Library: LepoUI")
+CreditsTab:AddLabel("Versão: v1.3 | Library: LepoUI")
