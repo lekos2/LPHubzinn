@@ -1,4 +1,4 @@
--- BLOCK REMOTES
+-- BLOQUEIO DE REMOTES
 
 local BlockedRemotes = {
     RequestBan = true,
